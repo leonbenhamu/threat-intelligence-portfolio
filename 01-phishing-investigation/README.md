@@ -2,7 +2,7 @@
 
 ## Investigation Status
 
-In Progress
+Planning Phase
 
 ## Objective
 
