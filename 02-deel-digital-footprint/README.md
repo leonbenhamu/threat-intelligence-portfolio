@@ -1,7 +1,11 @@
 # Project 02 – Digital Footprint Assessment of Deel
 
-## Overview
+📄 **Full Investigation Report (PDF):**
+[Download the complete report](./Deel_Digital_Footprint_Assessment.pdf)
 
+---
+
+## Overview
 This project presents an Open-Source Intelligence (OSINT) assessment of Deel's publicly exposed digital footprint. The objective was to map the organization's online presence, identify publicly accessible infrastructure, analyze its technology stack, evaluate its external security posture, and assess potential areas of exposure using only passive intelligence collection techniques.
 
 The investigation follows a structured intelligence methodology similar to those used in threat intelligence and corporate investigations, relying exclusively on publicly available information.
