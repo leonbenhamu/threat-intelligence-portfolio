@@ -1,26 +1,26 @@
 # Threat Intelligence & Digital Investigations Portfolio
 
-Welcome to my Threat Intelligence portfolio.
+Welcome to my Threat Intelligence & Digital Investigations Portfolio.
 
-This repository showcases practical intelligence investigations conducted using Open-Source Intelligence (OSINT), Web Intelligence (WEBINT), and digital footprint analysis methodologies. Each project follows a structured investigative process similar to those used in intelligence, litigation support, cybersecurity, and corporate due diligence, combining technical analysis with analytical reasoning to produce evidence-based intelligence assessments.
+This repository showcases a collection of practical intelligence investigations conducted using Open-Source Intelligence (OSINT), Web Intelligence (WEBINT), digital footprint analysis, and infrastructure profiling methodologies. Each project follows a structured investigative process designed to identify, collect, validate, correlate, and assess publicly available information to produce evidence-based intelligence reports.
 
-The objective of this portfolio is not only to document completed investigations but also to demonstrate a professional approach to intelligence collection, validation, correlation, and reporting. While the portfolio also serves as a platform for continuously expanding my technical capabilities and investigative methodologies, every project is designed to reflect real-world analytical workflows and professional reporting standards.
+Rather than focusing solely on technical findings, these investigations demonstrate the complete analytical workflow used in professional intelligence environments—from initial hypothesis development and information collection to evidence correlation, intelligence assessment, and reporting. The portfolio reflects my commitment to continuously developing investigative methodologies while applying the same analytical rigor expected in corporate intelligence, litigation support, cybersecurity, and due diligence investigations.
 
 ---
 
-# Portfolio Projects
+## Portfolio Projects
 
 | Project | Description | Status |
 |----------|-------------|--------|
-| **Project 01 – Bank of America Phishing Infrastructure Investigation** | Complete OSINT investigation into a phishing domain impersonating Bank of America. The investigation combines domain analysis, infrastructure profiling, DNS research, certificate transparency analysis, technology fingerprinting, organizational validation, and intelligence assessment to determine whether the observed phishing activity originated from malicious infrastructure or the abuse of a legitimate organization. | ✅ Completed |
-| **Project 02 – Deel Digital Footprint Investigation** | Comprehensive digital footprint assessment of Deel using OSINT and WEBINT methodologies. The investigation analyzes the company's public infrastructure, corporate presence, technology stack, executive profiles, social media footprint, exposed assets, and overall online ecosystem to produce a structured intelligence profile. | ✅ Completed |
-| **Project 03** | Threat Intelligence Investigation *(Coming Soon)* | 🚧 In Progress |
-| **Project 04** | Intelligence Investigation *(Coming Soon)* | 🚧 Planned |
-| **Project 05** | Intelligence Investigation *(Coming Soon)* | 🚧 Planned |
+| **[Project 01 – Bank of America Phishing Infrastructure Investigation](01-phishing-investigation/)** | A complete OSINT investigation into a phishing domain impersonating Bank of America. The investigation combines domain analysis, infrastructure profiling, DNS research, certificate transparency analysis, technology fingerprinting, organizational validation, and intelligence assessment to determine whether the observed phishing activity originated from malicious infrastructure or the abuse of a legitimate organization's digital environment. | ✅ Completed |
+| **[Project 02 – Deel Digital Footprint Investigation](02-deel-digital-footprint/)** | A comprehensive digital footprint investigation analyzing Deel's public online presence through OSINT and WEBINT methodologies. The project examines corporate infrastructure, executive profiles, technology stack, public assets, media presence, and digital ecosystem to produce a structured intelligence profile. | ✅ Completed |
+| **Project 03 – Threat Intelligence Investigation** | Advanced threat intelligence case study focused on infrastructure analysis and attribution. | 🚧 In Progress |
+| **Project 04 – Corporate Intelligence Investigation** | OSINT investigation involving corporate profiling, digital footprint analysis, and organizational assessment. | 🚧 Planned |
+| **Project 05 – Intelligence Investigation** | Comprehensive intelligence case study integrating multiple investigative methodologies. | 🚧 Planned |
 
 ---
 
-# Investigation Methodology
+## Investigation Methodology
 
 Although each investigation addresses a different intelligence objective, every project follows a structured analytical methodology designed to ensure that conclusions are supported by multiple independent sources rather than isolated indicators.
 
@@ -44,7 +44,7 @@ This methodology emphasizes evidence correlation, analytical reasoning, and cont
 
 ---
 
-# Tools & Platforms
+## Tools & Platforms
 
 ### Threat Intelligence
 
@@ -54,37 +54,60 @@ This methodology emphasizes evidence correlation, analytical reasoning, and cont
 
 ### Infrastructure & Network Analysis
 
-- DNSChecker
 - Whois
+- DNSChecker
 - crt.sh
 - BuiltWith
 
-### Intelligence Collection
+### Intelligence Collection & Analysis
 
 - Open-Source Intelligence (OSINT)
 - Web Intelligence (WEBINT)
+- Digital Footprint Analysis
+- Infrastructure Profiling
+- Domain Registration Analysis
 - Passive DNS Analysis
 - Certificate Transparency Analysis
-- Domain Registration Analysis
-- Infrastructure Profiling
+- Technical Attribution
+- Intelligence Reporting
+
+---
+
+## About
+
+I am an intelligence analyst with experience in litigation, investigative research, OSINT, WEBINT, and HUMINT methodologies. My professional background combines legal reasoning with structured intelligence analysis, enabling me to evaluate complex information, assess source credibility, identify meaningful patterns, and produce professional intelligence reports that support informed decision-making.
+
+Having worked across international and highly regulated environments, I have developed strong analytical thinking, investigative judgment, and the ability to manage sensitive information with professionalism, discretion, and confidentiality. Fluent in Spanish and English, with professional proficiency in Hebrew, I am particularly interested in corporate intelligence, litigation support, threat intelligence, digital investigations, and strategic intelligence analysis.
+
+---
+
+## Purpose of this Portfolio
+
+The objective of this repository is to demonstrate practical investigative capabilities through structured intelligence case studies based entirely on publicly available information.
+
+Each project is designed to replicate a real-world intelligence investigation by documenting the complete analytical process—from target selection and information collection to evidence validation, hypothesis refinement, and final intelligence assessment. Rather than presenting isolated technical findings, these reports emphasize critical thinking, analytical reasoning, and the ability to transform complex datasets into clear, evidence-based intelligence products.
+
+As this portfolio continues to grow, additional investigations will expand into areas such as corporate intelligence, threat intelligence, digital footprint analysis, cyber investigations, and advanced OSINT methodologies.
+
+---
+
+## Skills Demonstrated
+
+- Open-Source Intelligence (OSINT)
+- Web Intelligence (WEBINT)
+- Threat Intelligence
+- Infrastructure Analysis
 - Digital Footprint Analysis
+- Corporate Intelligence
+- Litigation Support
+- Intelligence Reporting
+- Evidence Correlation
+- Analytical Reasoning
+- Risk Assessment
+- Professional Investigative Reporting
 
 ---
 
-# About Me
+### Connect with Me
 
-I am an intelligence analyst with experience in litigation, OSINT, WEBINT, HUMINT methodologies, and investigative research. My professional background combines legal reasoning with intelligence analysis, allowing me to evaluate complex information, validate sources, identify patterns, and produce structured intelligence reports that support informed decision-making.
-
-Having worked across international and highly regulated environments, I have developed strong analytical thinking, investigative judgment, and the ability to handle sensitive information with professionalism, discretion, and confidentiality. Fluent in Spanish and English, with professional proficiency in Hebrew, I am particularly interested in intelligence analysis, digital investigations, litigation support, corporate intelligence, and cyber threat intelligence.
-
----
-
-# Purpose of this Portfolio
-
-The purpose of this repository is to demonstrate practical investigative capabilities through real-world intelligence case studies. Rather than focusing exclusively on technical findings, each investigation documents the complete analytical process—from initial hypothesis and intelligence collection to evidence correlation, reassessment, and final intelligence reporting.
-
-Every report reflects an evidence-based approach where conclusions evolve as new information becomes available, mirroring the methodology employed in professional intelligence environments.
-
----
-
-**GitHub:** https://github.com/leonbenhamu
+- **GitHub:** https://github.com/leonbenhamu
