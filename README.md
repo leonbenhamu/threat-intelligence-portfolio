@@ -1,48 +1,95 @@
-# Leon Benhamu – Threat Intelligence & OSINT Portfolio
+# Threat Intelligence & Digital Investigations Portfolio
 
-## About
+Welcome to my Threat Intelligence portfolio.
 
-This repository contains independent Threat Intelligence, OSINT and WEBINT investigations conducted for research, learning and professional development purposes.
+This repository showcases practical intelligence investigations conducted using Open-Source Intelligence (OSINT), Web Intelligence (WEBINT), and digital footprint analysis methodologies. Each project follows a structured investigative process similar to those used in corporate intelligence, litigation support, and cybersecurity investigations.
 
-My work focuses on:
+The objective of this portfolio is to demonstrate analytical thinking, intelligence collection, infrastructure analysis, and professional reporting through real-world investigations based entirely on publicly available information.
 
-* Phishing investigations
-* Infrastructure analysis
-* IOC collection and enrichment
-* Threat actor research
-* OSINT investigations
-* Intelligence reporting
+---
 
-## Background
+## Core Competencies
 
-I am an Intelligence and Security professional transitioning into Cyber Threat Intelligence.
+- Open-Source Intelligence (OSINT)
+- Web Intelligence (WEBINT)
+- Digital Footprint Analysis
+- Infrastructure Mapping
+- Domain & DNS Intelligence
+- Technology Stack Identification
+- Security Posture Assessment
+- Threat Assessment
+- Intelligence Reporting
 
-My experience includes intelligence collection, risk assessment, profiling, open-source research and investigative analysis.
+---
 
-## Portfolio Projects
+## Featured Investigations
 
 ### Project 01 – Phishing Infrastructure Investigation
+**Status:** ✅ Complete
 
-Status: In Progress
+Investigation of a suspected phishing infrastructure to identify malicious indicators, analyze the hosting environment, map associated infrastructure, and produce an intelligence assessment.
 
-### Project 02 – Infrastructure Mapping Investigation
+**Skills demonstrated**
 
-Status: Planned
+- IOC Analysis
+- Infrastructure Mapping
+- Threat Intelligence
+- OSINT Collection
+- Intelligence Reporting
 
-### Project 03 – Brand Impersonation Investigation
+---
 
-Status: Planned
+### Project 02 – Digital Footprint Assessment of Deel
+**Status:** ✅ Complete
 
-### Project 04 – Threat Actor Profile
+Comprehensive OSINT investigation of Deel's publicly exposed digital footprint, including corporate profiling, infrastructure mapping, technology stack identification, domain intelligence, and external security posture assessment.
 
-Status: Planned
+**Skills demonstrated**
 
-## Skills Demonstrated
+- Corporate Intelligence
+- Digital Footprint Analysis
+- Infrastructure Analysis
+- Technology Fingerprinting
+- Security Assessment
+- Intelligence Reporting
 
-* Threat Intelligence
-* OSINT
-* WEBINT
-* Infrastructure Analysis
-* IOC Analysis
-* Intelligence Reporting
-* Analytical Assessment
+---
+
+## Methodology
+
+Every investigation follows a structured intelligence workflow:
+
+1. Intelligence Requirement
+2. Information Collection
+3. Infrastructure Analysis
+4. Technical Assessment
+5. Intelligence Analysis
+6. Reporting
+
+All investigations rely exclusively on passive intelligence collection and publicly available information.
+
+---
+
+## Tools
+
+- VirusTotal
+- URLScan.io
+- SecurityHeaders
+- MXToolbox
+- BuiltWith
+- Shodan
+- ICANN Lookup
+- WHOIS
+- DNS Intelligence
+
+---
+
+## About Me
+
+I have a legal background with experience in litigation support, aviation security, and intelligence collection. My work combines analytical research, investigative methodologies, and technical OSINT techniques to support intelligence-driven decision making.
+
+I created this portfolio to continuously develop and demonstrate practical skills in Threat Intelligence and Digital Investigations.
+
+---
+
+*This repository is intended for educational and professional portfolio purposes. All investigations were conducted using publicly available information without intrusive techniques or unauthorized access.*
